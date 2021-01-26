@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify505f1d42c8ca4-staging-220521-authRole",
+      "UnauthRoleArn": "arn:aws:iam::589267607520:role/amplify-amplify505f1d42c8ca4-staging-220521-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::589267607520:role/amplify-amplify505f1d42c8ca4-staging-220521-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-amplify505f1d42c8ca4-staging-220521-deployment",
+      "UnauthRoleName": "amplify-amplify505f1d42c8ca4-staging-220521-unauthRole",
+      "StackName": "amplify-amplify505f1d42c8ca4-staging-220521",
+      "StackId": "arn:aws:cloudformation:us-east-2:589267607520:stack/amplify-amplify505f1d42c8ca4-staging-220521/95d8a590-6022-11eb-9496-06d5185f22d8",
+      "AmplifyAppId": "d3dwt0m9ag64lk"
+    },
+    "categories": {
+      "auth": {
+        "orangecloudappa3d87be9": {}
+      }
+    }
+  }
+}

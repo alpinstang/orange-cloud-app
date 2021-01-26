@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "orangecloudappa3d87be9": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
